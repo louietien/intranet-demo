@@ -1,0 +1,10 @@
+.next/
+node_modules/
+.env
+.env.local
+.env.old
+out/
+tsconfig.tsbuildinfo
+*.swp
+SECURITY.md
+.DS_Store*
